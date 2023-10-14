@@ -1,3 +1,4 @@
 /.idea
 city_temperature.csv
 moving_average.ipynb
+exp_avg_and_fourier.ipynb
